@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-16 12:51-0400\n"
+"POT-Creation-Date: 2020-08-18 20:31+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,30 +25,26 @@ msgstr ""
 msgid "turtle pattern programming challenge"
 msgstr ""
 
-#: activity.py:78
+#: activity.py:80
 msgid "Draw"
 msgstr ""
 
-#: activity.py:84
+#: activity.py:86
 msgid "Stop"
 msgstr ""
 
-#: activity.py:90
+#: activity.py:92
 msgid "Next pattern"
 msgstr ""
 
-#: activity.py:114
-msgid "<Ctrl>Q"
-msgstr ""
-
-#: activity.py:184
+#: activity.py:182
 msgid "Slow down"
 msgstr ""
 
-#: activity.py:199
+#: activity.py:197
 msgid "Speed up"
 msgstr ""
 
-#: activity.py:371
+#: activity.py:369
 msgid "Good job!"
 msgstr ""
