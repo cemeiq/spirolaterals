@@ -1,6 +1,6 @@
 [Activity]
 name = Spirolaterals
-activity_version = 26
+activity_version = 27
 host_version = 1
 bundle_id = org.laptop.community.Spirolaterals
 icon = activity
